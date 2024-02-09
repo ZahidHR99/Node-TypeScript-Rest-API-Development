@@ -1,0 +1,34 @@
+{"level":"info","message":"DB Connected"}
+{"level":"info","message":"app listening on port 5000"}
+{"level":"info","message":"DB Connected"}
+{"level":"info","message":"app listening on port 5000"}
+{"level":"info","message":"DB Connected"}
+{"level":"info","message":"app listening on port 5000"}
+{"level":"info","message":"DB Connected"}
+{"level":"info","message":"app listening on port 5000"}
+{"level":"info","message":"DB Connected"}
+{"level":"info","message":"app listening on port 5000"}
+{"level":"info","message":"DB Connected"}
+{"level":"info","message":"app listening on port 5000"}
+{"level":"info","message":"DB Connected"}
+{"level":"info","message":"app listening on port 5000"}
+2024-02-09T05:51:57.569Z [right meow!] info: DB Connected
+2024-02-09T05:51:57.608Z [right meow!] info: app listening on port 5000
+2024-02-09T05:52:42.555Z [success] info: DB Connected
+2024-02-09T05:52:42.564Z [success] info: app listening on port 5000
+2024-02-09T05:54:27.062Z [success] info: DB Connected
+2024-02-09T05:54:27.071Z [success] info: app listening on port 5000
+2024-02-09T05:54:49.721Z [message] info: DB Connected
+2024-02-09T05:54:49.733Z [message] info: app listening on port 5000
+2024-02-09T05:58:45.754Z [message] info: DB Connected
+2024-02-09T05:58:45.764Z [message] info: app listening on port undefined
+2024-02-09T05:59:30.418Z [message] info: DB Connected
+2024-02-09T05:59:30.429Z [message] info: app listening on port 5000
+2024-02-09T06:00:05.594Z [message] info: DB Connected
+2024-02-09T06:00:05.603Z [message] info: app listening on port 5000
+2024-02-09T06:00:16.144Z [message] error: DB Connected
+2024-02-09T06:00:16.154Z [message] error: app listening on port 5000
+2024-02-09T06:02:02.019Z [message] info: DB Connected
+2024-02-09T06:02:02.044Z [message] info: app listening on port 5000
+2024-02-09T06:02:08.379Z [message] info: DB Connected
+2024-02-09T06:02:08.391Z [message] info: app listening on port 5000
